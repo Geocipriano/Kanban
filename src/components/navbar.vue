@@ -1,7 +1,7 @@
 <template>
 <v-app-bar
   app
-  color="#304c4b"
+  color="#220901"
   >
   <v-spacer></v-spacer>
     <v-toolbar-title class="white--text">Kanban</v-toolbar-title>
